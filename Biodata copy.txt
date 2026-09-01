@@ -1,6 +1,0 @@
-Nama: Filipus Ferry
-NIM: 235314039
-Prodi: Informatika
-Fakultas: Sains & Teknologi
-Umur: 21
-Hobi: tidur
